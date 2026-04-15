@@ -55,7 +55,7 @@ Offset = 45 − 40 = +5%
 
 ### Option 1: Open locally
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo.git
+   git clone (https://github.com/uschris88-sudo/calibrationreadme.git)
 
 2. Open the folder  
 3. Open `index.html` in your browser  
